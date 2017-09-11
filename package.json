@@ -1,0 +1,23 @@
+{
+    "name": "angular4",
+    "version": "1.0.0",
+    "description": "",
+    "engines": {
+        "node": "6.11.1"
+    },
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ejs": "2.5.6",
+        "express": "4.15.2"
+    },
+    "devDependencies": {
+        "request": "^2.81.0",
+        "tape": "^4.7.0"
+    },
+    "author": "naminder.83@gmail.com",
+    "license": "MIT"
+}
